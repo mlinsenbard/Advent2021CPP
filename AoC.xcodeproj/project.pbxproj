@@ -15,6 +15,11 @@
 		50952E64276712C300BDA689 /* AOC13.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50952E63276712C300BDA689 /* AOC13.swift */; };
 		50952E672769AAE300BDA689 /* AOC_14.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50952E662769AAE300BDA689 /* AOC_14.swift */; };
 		50952E6A276AE2C000BDA689 /* AOC_15.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50952E69276AE2C000BDA689 /* AOC_15.swift */; };
+		50952E6D276C6AFF00BDA689 /* AOC_16.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50952E6C276C6AFF00BDA689 /* AOC_16.swift */; };
+		50952E70276C76B300BDA689 /* AOC_17.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50952E6F276C76B300BDA689 /* AOC_17.swift */; };
+		50952E732770659800BDA689 /* AOC_18.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50952E722770659800BDA689 /* AOC_18.swift */; };
+		50952E762770678400BDA689 /* AOC_20.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50952E752770678400BDA689 /* AOC_20.swift */; };
+		50952E79277067B500BDA689 /* HELP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50952E78277067B500BDA689 /* HELP.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -39,6 +44,11 @@
 		50952E63276712C300BDA689 /* AOC13.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AOC13.swift; sourceTree = "<group>"; };
 		50952E662769AAE300BDA689 /* AOC_14.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AOC_14.swift; sourceTree = "<group>"; };
 		50952E69276AE2C000BDA689 /* AOC_15.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AOC_15.swift; sourceTree = "<group>"; };
+		50952E6C276C6AFF00BDA689 /* AOC_16.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AOC_16.swift; sourceTree = "<group>"; };
+		50952E6F276C76B300BDA689 /* AOC_17.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AOC_17.swift; sourceTree = "<group>"; };
+		50952E722770659800BDA689 /* AOC_18.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AOC_18.swift; sourceTree = "<group>"; };
+		50952E752770678400BDA689 /* AOC_20.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AOC_20.swift; sourceTree = "<group>"; };
+		50952E78277067B500BDA689 /* HELP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HELP.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +82,10 @@
 			isa = PBXGroup;
 			children = (
 				50952E4F27619CF900BDA689 /* main.swift */,
+				50952E752770678400BDA689 /* AOC_20.swift */,
+				50952E78277067B500BDA689 /* HELP.swift */,
+				50952E722770659800BDA689 /* AOC_18.swift */,
+				50952E6F276C76B300BDA689 /* AOC_17.swift */,
 				50952E69276AE2C000BDA689 /* AOC_15.swift */,
 				50952E662769AAE300BDA689 /* AOC_14.swift */,
 				50952E60276709DF00BDA689 /* AOC12.swift */,
@@ -79,6 +93,7 @@
 				50952E5A27654C2D00BDA689 /* AOC_10.swift */,
 				50952E5D27669EC200BDA689 /* AOC11.swift */,
 				50952E63276712C300BDA689 /* AOC13.swift */,
+				50952E6C276C6AFF00BDA689 /* AOC_16.swift */,
 			);
 			path = AoC;
 			sourceTree = "<group>";
@@ -141,9 +156,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				50952E58276311F800BDA689 /* AOC_prob9.swift in Sources */,
+				50952E70276C76B300BDA689 /* AOC_17.swift in Sources */,
+				50952E79277067B500BDA689 /* HELP.swift in Sources */,
 				50952E672769AAE300BDA689 /* AOC_14.swift in Sources */,
 				50952E64276712C300BDA689 /* AOC13.swift in Sources */,
 				50952E61276709DF00BDA689 /* AOC12.swift in Sources */,
+				50952E732770659800BDA689 /* AOC_18.swift in Sources */,
+				50952E6D276C6AFF00BDA689 /* AOC_16.swift in Sources */,
+				50952E762770678400BDA689 /* AOC_20.swift in Sources */,
 				50952E5B27654C2D00BDA689 /* AOC_10.swift in Sources */,
 				50952E5027619CF900BDA689 /* main.swift in Sources */,
 				50952E5E27669EC200BDA689 /* AOC11.swift in Sources */,
